@@ -1,39 +1,25 @@
-# 基于SpringBoot的校园招聘系统+论文示例参考
+**[点我获取源码](https://x-x.fun/e/NM959a9e4aZuo)💕🤞**
 
-#### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
+**[点我获取源码+论文参考示例](https://x-x.fun/e/VM076bd78eYFd)💕🤞**
 
-#### 软件架构
-软件架构说明
+**郑重声明：项目经过本地测试，确保可以运行。由于精力有限，不提供调试服务。项目仅供学习和毕业设计参考~**
 
+#### 1.项目介绍
 
-#### 安装教程
+技术栈+工具：SpringBoot + MyBatis-Plus + JSP + Maven + IDEA2022 + MySQL
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+系统角色：管理员、企业、普通用户（学生）
 
-#### 使用说明
+系统功能：管理员（用户管理、企业管理、实体管理、岗位管理等）、企业（简历搜集、推荐简历查看、投递简历查看、发布职位、信息维护等）、普通用户（职位查询、简历管理、测试管理、个人信息管理等）
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+##### 2.项目部署
 
-#### 参与贡献
+- 创建数据库，导入项目中的sql
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+- 打开IDEA，导入项目offer
 
+- 根据本地数据库环境，修改数据库的连接信息 src/main/resources/application.yml 7-10行
 
-#### 特技
+- 启动项目，运行 http://localhost:8080/offer 
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+- 普通用户账号/密码：zhangsanfeng/123456  企业： ali/123456  管理员： admin/admin
