@@ -22,3 +22,12 @@
 - 启动项目，运行 http://localhost:8080/offer 
 
 - 普通用户账号/密码：zhangsanfeng/123456  企业： ali/123456  管理员： admin/admin
+![0](https://github.com/Learning-Journey-Treasures/bysj-019/blob/master/1.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-019/blob/master/2.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-019/blob/master/3.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-019/blob/master/4.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-019/blob/master/5.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-019/blob/master/6.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-019/blob/master/7.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-019/blob/master/8.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-019/blob/master/9.png)
